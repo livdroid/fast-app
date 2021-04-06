@@ -1,16 +1,6 @@
 # fastapp
 
-A new Flutter project.
+Petite appli de gestion de jeûne faite pour le fun, afin de tester flutter_bloc et les notifications sur Android.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![alt text](https://github.com/livdroid/fast-app/blob/main/Capture%20d%E2%80%99%C3%A9cran%202021-04-06%20%C3%A0%2020.15.58.png)
+![alt text](https://github.com/livdroid/fast-app/blob/main/Capture%20d%E2%80%99%C3%A9cran%202021-04-06%20%C3%A0%2020.17.17.png)
